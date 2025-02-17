@@ -3,7 +3,7 @@
 This is a simple slot machine game written in JavaScript. I followed a YouTube tutorial to help me understand how JavaScript works with things like functions, loops, and randomization. It's my first try at something like this, so it’s a bit scuffed!
 
 ## How to Play:
-1. Deposit some money to get started.
+1. "Deposit" some money to get started.
 2. Pick how many lines you want to bet on (1-3).
 3. Choose your bet per line.
 4. Spin the slot machine and hope you win!
